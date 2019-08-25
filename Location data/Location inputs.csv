@@ -1,0 +1,9 @@
+Location,Nyabiheke,Location name
+Country,Rwanda,Location country
+Time difference,2,Time difference vs. UTC
+Community size,3200,Number of households in community
+Community growth rate,0,Fractional growth rate per year
+Years,15,years of simulation
+Latitude,-1.6376,degrees of latitude (North +ve)
+Longitude,29.9639,degrees of longitude (East +ve)
+token,75d391a40d9f59076a96949807cec6fc4ff8093d,renewables.ninja API token
